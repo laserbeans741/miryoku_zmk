@@ -1,0 +1,7 @@
+# Copyright 2022 Aaron Hoffman
+# https://github.com/laserbeans741
+
+outboard_repository=nickconway/zmk
+outboard_ref=dev
+outboard_from=app/boards/shields/rollow
+outboard_to=boards/shields/rollow
